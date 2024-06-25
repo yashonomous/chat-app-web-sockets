@@ -1,0 +1,32 @@
+[
+  {
+    "sender": "User2",
+    "text": "sure",
+    "timestamp": "13:56:18"
+  },
+  {
+    "sender": "User1",
+    "text": "lets catch up",
+    "timestamp": "13:56:16"
+  },
+  {
+    "sender": "User2",
+    "text": "thanks man",
+    "timestamp": "13:56:11"
+  },
+  {
+    "sender": "User1",
+    "text": "you are awesome",
+    "timestamp": "13:56:07"
+  },
+  {
+    "sender": "User2",
+    "text": "hi form 2",
+    "timestamp": "13:56:03"
+  },
+  {
+    "sender": "User1",
+    "text": "hello from 1",
+    "timestamp": "13:55:58"
+  }
+]

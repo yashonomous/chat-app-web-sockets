@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.3",
+    "url": "^0.11.3",
+    "ws": "8.5.0"
+  }
+}
